@@ -27,3 +27,15 @@ The focus is on end-to-end ticket lifecycle management including:
 * Apply SLA-based thinking
 * Demonstrate escalation handling
 * Improve professional communication skills
+
+
+---
+
+## 📸 Screenshots
+
+### 🟦 1. Ticket Creation
+
+> Users submit issues via email or manual entry.
+
+<img width="1930" height="799" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/30159cb3-4630-474b-9706-23246ce78761" />
+
